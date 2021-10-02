@@ -4,11 +4,11 @@
 Tech-A-Thon is a hack-a-thon event organised by Bit Mesra. It is a 5 week long event in which participants have to prepare a machine learning project
 
 ## Project Details:
-Domain: Machine Learning
+**Domain**: Machine Learning
 
-Project Name: Urban Water Logging
+**Project Name**: Urban Water Logging
 
-Theme: Recognition System
+**Theme**: Recognition System
 
 ## Objective: 
 We are aiming to build water smart cities which will identify the real time water logging locations and predict the danger level caused by water logging in these areas.
@@ -32,6 +32,7 @@ We did not find an existing data set that provides us with such annotations. Hen
 1) Water logging vs non-Water logging classification:
    * We obtained an accuracy of 85.18 on the validation data
    * Some results on test set are as shown below:
+ 
    ![](Images/Waterlogging.png)
 2) Danger Level Classification
    * We obtained an accuracy of 76.19 on the validation data
