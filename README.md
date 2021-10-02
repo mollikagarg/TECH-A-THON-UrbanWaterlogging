@@ -1,11 +1,13 @@
 # TECH-A-THON-UrbanWaterlogging
 
 ## Tech-A-Thon
-ech-A-Thon is a hack-a-thon event organised by Bit Mesra. It is a 5 week long event in which participants have to prepare a machine learning project
+Tech-A-Thon is a hack-a-thon event organised by Bit Mesra. It is a 5 week long event in which participants have to prepare a machine learning project
 
 ## Project Details:
 Domain: Machine Learning
+
 Project Name: Urban Water Logging
+
 Theme: Recognition System
 
 ## Objective: 
@@ -34,6 +36,7 @@ We did not find an existing data set that provides us with such annotations. Hen
 2) Danger Level Classification
    * We obtained an accuracy of 76.19 on the validation data
    * Some results on test set are as shown below:
+  
    ![](Images/DangerLevel.png)
 
 ## Difficulties faced:
