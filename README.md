@@ -43,5 +43,7 @@ We did not find an existing data set that provides us with such annotations. Hen
 ## Difficulties faced:
 Currently we have explored ML techniques for our algorithm. In future we can experiment with deep learning techniques to improve performance. Currently, we don’t have a very large data set for street view water logging images. If a bigger data set is made available in future, then we can train our algorithm on that to obtain better results.
              
-
+## Team Contributors:
+Name: Mollika Garg
+Github Link: https://github.com/mollikagarg
 
