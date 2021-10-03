@@ -30,11 +30,11 @@ We did not find an existing data set that provides us with such annotations. Hen
 1) Water logging vs non-Water logging classification:
    * We obtained an accuracy of 85.18 on the validation data
    * Some results on test set are as shown below:
-   ![][Images/Waterlogging.png]
+   ![](Images/Waterlogging.png)
 2) Danger Level Classification
    * We obtained an accuracy of 76.19 on the validation data
    * Some results on test set are as shown below:
-   ![][Images/DangerLevel.png]
+   ![](Images/DangerLevel.png)
 
 ## Difficulties faced:
 Currently we have explored ML techniques for our algorithm. In future we can experiment with deep learning techniques to improve performance. Currently, we don’t have a very large data set for street view water logging images. If a bigger data set is made available in future, then we can train our algorithm on that to obtain better results.
